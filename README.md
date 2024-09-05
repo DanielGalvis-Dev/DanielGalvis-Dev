@@ -1,8 +1,11 @@
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> SOBRE Mi
 
-<h2 >Tecnologías conocidas👨🏻‍💻</h2>
+<h2 >Contactame 📱</h2>
 <a href = "mailto:djgz2004@gmail.com" target="blank">
   <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Daniel Galvis"  />
+</a>
+<a href = "https://wa.me/+573006188395" target="blank">
+  <img align="center" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Daniel Galvis"  />
 </a>
 <br>
 <br>
@@ -42,6 +45,9 @@
 </a>
 <a href="https://angular.io/" target="_blank">
   <img src="https://skillicons.dev/icons?i=angular" alt="angular" />
+</a>
+<a href="https://getbootstrap.com/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=bootstrap" alt="bootstrap" />
 </a>
 <br>
 <a href="https://azure.microsoft.com/" target="_blank">
