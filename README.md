@@ -1,14 +1,8 @@
-## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> SOBRE Mi
 
-<h2 >Contactame 📱</h2>
-<a href = "mailto:djgz2004@gmail.com" target="blank">
-  <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Daniel Galvis"  />
-</a>
-<a href = "https://wa.me/+573006188395" target="blank">
-  <img align="center" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Daniel Galvis"  />
-</a>
-<br>
-<br>
+<h1 align="center">
+   Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm Daniel Galvis and I'm Software Developer
+  <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture>
+</h1>
 <br>
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> Tecnologías conocidas
@@ -93,3 +87,15 @@
 </tr>
 </table>
 </p>
+<br>
+<br>
+
+<div align="center">
+  <h2 >Contactame 📱</h2>
+  <a href = "mailto:djgz2004@gmail.com" target="blank">
+    <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="35" alt="Daniel Galvis"  />
+  </a>
+  <a href = "https://wa.me/+573006188395" target="blank">
+    <img align="center" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" height="35" alt="Daniel Galvis"  />
+  </a>
+</div>
