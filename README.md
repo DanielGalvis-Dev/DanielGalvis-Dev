@@ -24,6 +24,9 @@
       <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
         <img src="https://skillicons.dev/icons?i=js" alt="javascript" />
       </a>
+      <a href="https://www.typescriptlang.org/" target="_blank">
+        <img src="https://skillicons.dev/icons?i=ts" alt="typescript" />
+      </a>
       <a href="https://www.mysql.com/" target="_blank">
         <img src="https://skillicons.dev/icons?i=mysql" alt="mysql" />
       </a>
