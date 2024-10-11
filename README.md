@@ -12,9 +12,6 @@
       <a href="https://www.php.net/" target="_blank">
         <img src="https://skillicons.dev/icons?i=php" alt="php" />
       </a>
-      <a href="https://www.python.org/" target="_blank">
-        <img src="https://skillicons.dev/icons?i=py" alt="python" />
-      </a>
       <a href="https://developer.mozilla.org/en-US/docs/Web/html" target="_blank">
         <img src="https://skillicons.dev/icons?i=html" alt="html" />
       </a>
@@ -37,19 +34,12 @@
       <a href="https://nodejs.org/" target="_blank">
         <img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs" />
       </a>
-      <a href="https://reactjs.org/" target="_blank">
-        <img src="https://skillicons.dev/icons?i=react" alt="react" />
-      </a>
       <a href="https://angular.io/" target="_blank">
         <img src="https://skillicons.dev/icons?i=angular" alt="angular" />
       </a>
       <a href="https://getbootstrap.com/" target="_blank">
         <img src="https://skillicons.dev/icons?i=bootstrap" alt="bootstrap" />
       </a>
-      <a href="https://learn.microsoft.com/en-us/dotnet" target="_blank">
-        <img src="https://skillicons.dev/icons?i=dotnet" alt="dotnet" />
-      </a>
-      <br>
       <a href="https://azure.microsoft.com/" target="_blank">
         <img src="https://skillicons.dev/icons?i=azure" alt="azure" />
       </a>
